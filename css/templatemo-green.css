@@ -33,6 +33,7 @@ h2 {
   font-family: 'Proxima Bold';
   line-height: 14px;
   color: #308030;
+  line-height: normal;
 }
 
 .bold {
